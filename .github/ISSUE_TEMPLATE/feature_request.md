@@ -1,6 +1,6 @@
 ---
-name: "\U0001F680 New feature proposal"
-about: Propose a new feature to be added to Vite
+name: New feature proposal
+about: Propose a new feature to be added to this project
 title: ''
 labels: 'enhancement'
 assignees: ''
@@ -9,7 +9,7 @@ assignees: ''
 ### Clear and concise description of the problem
 
 <!--
-  As a developer using Vite I want [goal / wish] so that [benefit].
+  As a developer using this project I want [goal / wish] so that [benefit].
 
   If you intend to submit a PR for this issue, tell us in the description. Thanks!
 -->
