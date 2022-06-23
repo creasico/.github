@@ -2,7 +2,7 @@
 name: New feature proposal
 about: Propose a new feature to be added to this project
 title: ''
-labels: 'enhancement'
+labels: feature request
 assignees: ''
 ---
 
@@ -25,3 +25,10 @@ assignees: ''
 ### Additional context
 
 <!-- Any other context or screenshots about the feature request here. -->
+
+---
+
+### Before submitting the issue, please make sure you do the following <!-- (put an "X" next to an item) -->
+
+- [ ] Read the [Contributing Guidelines](https://github.com/creasico/.github/blob/master/CONTRIBUTING.md).
+- [ ] Provide a description in this issue that describes the bug.

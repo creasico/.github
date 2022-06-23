@@ -36,7 +36,7 @@ assignees: ''
 
 ---
 
-### Before submitting the issue, please make sure you do the following
+### Before submitting the issue, please make sure you do the following <!-- (put an "X" next to an item) -->
 
 - [ ] Read the [Contributing Guidelines](https://github.com/creasico/.github/blob/master/CONTRIBUTING.md).
 - [ ] Check that there isn't already an issue that reports the same bug to avoid creating a duplicate.

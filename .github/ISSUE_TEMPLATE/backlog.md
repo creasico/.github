@@ -2,7 +2,7 @@
 name: Backlog
 about: Propose a feature should be available in this project
 title: ''
-labels: 'backlog'
+labels: chore
 assignees: ''
 ---
 
@@ -25,3 +25,10 @@ assignees: ''
 ### Additional context
 
 <!-- Any other context or screenshots about the feature request here. -->
+
+---
+
+### Before submitting the issue, please make sure you do the following <!-- (put an "X" next to an item) -->
+
+- [ ] Read the [Contributing Guidelines](https://github.com/creasico/.github/blob/master/CONTRIBUTING.md).
+- [ ] Provide a description in this issue that describes the bug.
